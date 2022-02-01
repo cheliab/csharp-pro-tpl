@@ -1,8 +1,10 @@
-﻿// Свойства Id и CurrentId
+﻿// Пример получения ID задания 
+// 
+// Свойства Id и CurrentId
 // Id - Уникальный идентификатор определенного экземпляра
 // CurrentId - Уникальный идентификатор выполняющейся задачи
 
-namespace TPL_Id 
+namespace N_002_TPL_Id 
 {
     class Program
     {

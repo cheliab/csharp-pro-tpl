@@ -1,4 +1,6 @@
-﻿namespace N_001_TPL
+﻿// Пример использования задачи - Task
+
+namespace N_001_TPL
 {
     class Program
     {
