@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_003_TPL_Status", "N_003_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_004_TPL_IsBackground", "N_004_TPL_IsBackground\N_004_TPL_IsBackground.csproj", "{F97FD628-F52D-475F-96F0-93BFEDEC81E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_005_TPL_AsyncState", "N_005_TPL_AsyncState\N_005_TPL_AsyncState.csproj", "{DB27CC01-1666-4087-9171-EAC57442F7E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB27CC01-1666-4087-9171-EAC57442F7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB27CC01-1666-4087-9171-EAC57442F7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB27CC01-1666-4087-9171-EAC57442F7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB27CC01-1666-4087-9171-EAC57442F7E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
