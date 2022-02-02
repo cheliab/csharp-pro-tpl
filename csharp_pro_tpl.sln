@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_002_TPL_Id", "N_002_TPL_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_003_TPL_Status", "N_003_TPL_Status\N_003_TPL_Status.csproj", "{2517FE07-42E3-4B6C-854A-74778F7054FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_004_TPL_IsBackground", "N_004_TPL_IsBackground\N_004_TPL_IsBackground.csproj", "{F97FD628-F52D-475F-96F0-93BFEDEC81E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2517FE07-42E3-4B6C-854A-74778F7054FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2517FE07-42E3-4B6C-854A-74778F7054FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2517FE07-42E3-4B6C-854A-74778F7054FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97FD628-F52D-475F-96F0-93BFEDEC81E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
