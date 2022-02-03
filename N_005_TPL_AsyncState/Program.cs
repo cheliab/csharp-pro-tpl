@@ -9,7 +9,7 @@ namespace N_005_TPL_AsyncState
             for (int i = 0; i < 80; i++)
             {
                 Thread.Sleep(25);
-                Console.WriteLine(arg as string);
+                Console.Write(arg as string);
             }
         }
         
