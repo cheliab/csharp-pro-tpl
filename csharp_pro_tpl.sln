@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_006_TPL_Wait", "N_006_TPL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_007_TPL_WaitAll", "N_007_TPL_WaitAll\N_007_TPL_WaitAll.csproj", "{47045594-E36C-4C4D-B1AB-7CC3EA6C00B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_008_TPL_Factory", "N_008_TPL_Factory\N_008_TPL_Factory.csproj", "{CFFDBE32-C334-48C3-99C7-237DCE6B53CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{47045594-E36C-4C4D-B1AB-7CC3EA6C00B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47045594-E36C-4C4D-B1AB-7CC3EA6C00B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47045594-E36C-4C4D-B1AB-7CC3EA6C00B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFDBE32-C334-48C3-99C7-237DCE6B53CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFDBE32-C334-48C3-99C7-237DCE6B53CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFDBE32-C334-48C3-99C7-237DCE6B53CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFDBE32-C334-48C3-99C7-237DCE6B53CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
