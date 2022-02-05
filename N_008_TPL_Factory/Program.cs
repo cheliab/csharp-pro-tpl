@@ -14,7 +14,7 @@ namespace N_008_TPL_Factory
             }
         }
         
-        public void Main()
+        public static void Main()
         {
             // Вариант 1.
             Task task = Task.Factory.StartNew(MyTask);
