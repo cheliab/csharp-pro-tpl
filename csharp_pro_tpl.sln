@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_009_Lambda", "N_009_Lambd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_010_TPL_Continuation", "N_010_TPL_Continuation\N_010_TPL_Continuation.csproj", "{2485519A-5FAE-4871-9AE1-534F0DB31D82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_011_TPL_Return", "N_011_TPL_Return\N_011_TPL_Return.csproj", "{61D5D058-D28B-452A-A43A-B69B36633032}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{2485519A-5FAE-4871-9AE1-534F0DB31D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2485519A-5FAE-4871-9AE1-534F0DB31D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2485519A-5FAE-4871-9AE1-534F0DB31D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D5D058-D28B-452A-A43A-B69B36633032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D5D058-D28B-452A-A43A-B69B36633032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D5D058-D28B-452A-A43A-B69B36633032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D5D058-D28B-452A-A43A-B69B36633032}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
