@@ -22,7 +22,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_010_TPL_Continuation", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_011_TPL_Return", "N_011_TPL_Return\N_011_TPL_Return.csproj", "{61D5D058-D28B-452A-A43A-B69B36633032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_013_TPL_Exception", "N_013_TPL_Exception\N_013_TPL_Exception.csproj", "{0340EE92-04EF-41E4-811F-56795EA1633C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_012_TPL_Exception", "N_012_TPL_Exception\N_012_TPL_Exception.csproj", "{0340EE92-04EF-41E4-811F-56795EA1633C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

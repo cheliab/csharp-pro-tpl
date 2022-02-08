@@ -1,6 +1,6 @@
 ﻿// Работа с исключениями
 
-namespace N_013_TPL_Exception;
+namespace N_012_TPL_Exception;
 
 class Program
 {
