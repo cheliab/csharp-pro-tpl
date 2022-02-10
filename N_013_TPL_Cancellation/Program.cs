@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-// Отмена задачи с использованием токена отмены 
+// Прерывание выполнения задачи с использованием токена отмены 
 
 namespace N_013_TPL_Cancellation;
 
@@ -11,7 +11,7 @@ class Program
     /// <summary>
     /// Метод с возможностью отмены
     /// </summary>
-    /// <param name="arg"></param>
+    /// <param name="arg">Токен отмены</param>
     private static void MyTask(object arg)
     {
         CancellationToken token = (CancellationToken)arg;
@@ -26,7 +26,7 @@ class Program
             if (token.IsCancellationRequested) // проверка отмены
             {
                 Console.WriteLine("\nПолучен запрос на отмену задачи.");
-                token.ThrowIfCancellationRequested(); // кинуть OperationCanceledException
+                // token.ThrowIfCancellationRequested(); // кинуть OperationCanceledException
             }
             
             Thread.Sleep(100);
